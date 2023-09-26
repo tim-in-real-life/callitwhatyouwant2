@@ -1,0 +1,1 @@
+Debug/ura_ecs_project_entities_creature.cpp.o Debug/ura_ecs_project_health_health_component.cpp.o Debug/ura_ecs_project_main.cpp.o Debug/ura_ecs_project_entities_actor.cpp.o Debug/ura_ecs_project_entities_player.cpp.o Debug/ura_ecs_project_systems_health_system.cpp.o Debug/ura_ecs_project_entities_npc.cpp.o
